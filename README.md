@@ -1,1 +1,1 @@
-this is basic list program used for list methods
+this is basic list program for list methods
